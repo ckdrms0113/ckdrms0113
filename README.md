@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ChangGeun Welcome To My GitHub!
+# Welcome To My GitHub!
 
 ## 🎮 Game Planner / System Designer
 - 게임 시스템 구조 분석
