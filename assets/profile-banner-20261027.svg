@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">권창근 · 게임 기획자</title>
+<desc id="desc">게임 규칙, 시스템 설계, 플레이 테스트를 기록하는 포트폴리오 배너</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102d35"/><stop offset="1" stop-color="#08181f"/></linearGradient>
+ <radialGradient id="light"><stop stop-color="#4f8c85" stop-opacity=".24"/><stop offset="1" stop-color="#4f8c85" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+<circle cx="1000" cy="125" r="270" fill="url(#light)"/>
+<path d="M790 0v320M850 0v320M910 0v320M970 0v320M1030 0v320M1090 0v320M1150 0v320M760 40h440M760 100h440M760 160h440M760 220h440M760 280h440" stroke="#b5d0c4" stroke-opacity=".055"/>
+<rect x="58" y="55" width="35" height="4" rx="2" fill="#e8bb78"/>
+<text x="58" y="96" fill="#e8bb78" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4">GAME PLANNER</text>
+<text x="54" y="188" fill="#f5f1e8" font-family="Malgun Gothic,Apple SD Gothic Neo,Noto Sans KR,sans-serif" font-size="72" font-weight="700" letter-spacing="2">권창근</text>
+<text x="59" y="243" fill="#b7c9c6" font-family="Arial,sans-serif" font-size="20" letter-spacing=".5">Game systems &amp; playable prototypes</text>
+<path d="M824 208L912 116L1000 208L1088 116" fill="none" stroke="#80b8aa" stroke-width="2"/>
+<path d="M824 208H1000V116H1088" fill="none" stroke="#7b9e98" stroke-opacity=".25" stroke-width="1.5" stroke-dasharray="5 7"/>
+<g fill="#142f35" stroke="#e8bb78" stroke-width="2">
+ <circle cx="824" cy="208" r="12"/><circle cx="912" cy="116" r="12"/><circle cx="1000" cy="208" r="12"/><circle cx="1088" cy="116" r="12"/>
+</g>
+<g fill="#e8bb78"><circle cx="824" cy="208" r="4"/><circle cx="912" cy="116" r="4"/><circle cx="1000" cy="208" r="4"/><circle cx="1088" cy="116" r="4"/></g>
+<text x="800" y="274" fill="#7faaa3" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">DESIGN / BUILD / TEST / REFINE</text>
+</svg>
